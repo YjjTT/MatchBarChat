@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  YjjHomePageViewController.h
 //  YjjMatchBarChatDemo
 //
 //  Created by YjjTT on 2018/3/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface YjjHomePageViewController : UIViewController
 
 @end
-
